@@ -1,0 +1,33 @@
+<section class="lista-trab">
+        <div class="lista-exp">
+            <ul class="lista-item">
+                <li>Trabalho sem carteira assinada;</li>
+                <li>Pedido de demissão “forçado”;</li>
+                <li>Demissão sem justa causa;</li>
+                <li>Reversão justa causa indevida;</li>
+                <li>Pagamento “das contas” - rescisão;</li>
+                <li>Horas extras não pagas</li>
+                <li>Comissão paga “por fora”</li>
+            </ul>
+        </div>
+
+        <div class="lista-exp">
+            <ul class="lista-item">
+                <li>Trabalho sem carteira assinada;</li>
+                <li>Pedido de demissão “forçado”;</li>
+                <li>Demissão sem justa causa;</li>
+                <li>Reversão justa causa indevida;</li>
+                <li>Pagamento “das contas” - rescisão;</li>
+                <li>Horas extras não pagas</li>
+                <li>Comissão paga “por fora”</li>
+                 <div>
+          
+            </ul>
+           
+        </div>
+        <p class="btn-experiencia"><a href="#">Fale conosco</a></p>
+           
+    </div>
+        <div>
+           
+    </section>
